@@ -1,0 +1,11 @@
+Artificial intelligence agent
+Writen by Nick Pnevmatikatos
+
+
+Execution: 
+
+./CheckersAI [-d depth_of_search] [-s T-table size]
+
+Options:
+	-d specify the depth of minimax search (defaults to 10)
+	-s specify size of transpositioning table (defaults to 64MB)
